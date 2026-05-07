@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Моё приложение</string>
+
+    <!-- Массив для ListView -->
+    <string-array name="list_items">
+        <item>Элемент 1</item>
+        <item>Элемент 2</item>
+        <item>Элемент 3</item>
+        <item>Элемент 4</item>
+        <item>Элемент 5</item>
+    </string-array>
+
+    <!-- Массив для Spinner -->
+    <string-array name="spinner_items">
+        <item>Выберите значение</item>
+        <item>Группа 1</item>
+        <item>Группа 2</item>
+        <item>Группа 3</item>
+    </string-array>
+
+    <!-- Названия полей и кнопок -->
+    <string name="full_name_hint">ФИО</string>
+    <string name="login_hint">Логин</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">+7XXXXXXXXXX</string>
+    <string name="password_hint">Пароль</string>
+    <string name="confirm_password_hint">Повтор пароля</string>
+    <string name="date_hint">ДД.ММ.ГГГГ</string>
+    <string name="select_date_btn">Выбрать дату</string>
+    <string name="consent_text">Согласие на обработку данных</string>
+    <string name="register_btn">Зарегистрироваться</string>
+    <string name="go_to_registration">Форма регистрации</string>
+
+    <!-- Сообщения об ошибках -->
+    <string name="error_empty_field">Поле не должно быть пустым</string>
+    <string name="error_fullname">Допустимы только кириллица, дефис и пробелы</string>
+    <string name="error_login">Допустима только латиница</string>
+    <string name="error_email">Неверный формат email</string>
+    <string name="error_phone">Введите номер в формате +7XXXXXXXXXX</string>
+    <string name="error_password">Минимум 6 символов, одна цифра и одна заглавная буква</string>
+    <string name="error_confirm_password">Пароли не совпадают</string>
+    <string name="error_date_format">Дата должна быть в формате ДД.ММ.ГГГГ</string>
+    <string name="error_date_range">Дата должна быть между 01.01.1900 и сегодняшним днём</string>
+    <string name="error_consent">Необходимо дать согласие на обработку данных</string>
+</resources>

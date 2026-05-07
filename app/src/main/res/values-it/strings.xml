@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mia App</string>
+
+    <string-array name="list_items">
+        <item>Elemento 1</item>
+        <item>Elemento 2</item>
+        <item>Elemento 3</item>
+        <item>Elemento 4</item>
+        <item>Elemento 5</item>
+    </string-array>
+
+    <string-array name="spinner_items">
+        <item>Seleziona valore</item>
+        <item>Gruppo 1</item>
+        <item>Gruppo 2</item>
+        <item>Gruppo 3</item>
+    </string-array>
+
+    <string name="full_name_hint">Nome e cognome</string>
+    <string name="login_hint">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">+39XXXXXXXXXX</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Conferma password</string>
+    <string name="date_hint">GG.MM.AAAA</string>
+    <string name="select_date_btn">Scegli data</string>
+    <string name="consent_text">Consenso al trattamento dati</string>
+    <string name="register_btn">Registrati</string>
+    <string name="go_to_registration">Modulo di registrazione</string>
+
+    <string name="error_empty_field">Il campo non può essere vuoto</string>
+    <string name="error_fullname">Solo cirillico, trattini e spazi</string>
+    <string name="error_login">Solo lettere latine</string>
+    <string name="error_email">Formato email non valido</string>
+    <string name="error_phone">Inserisci il numero come +39XXXXXXXXXX</string>
+    <string name="error_password">Minimo 6 caratteri, una cifra e una maiuscola</string>
+    <string name="error_confirm_password">Le password non corrispondono</string>
+    <string name="error_date_format">Data nel formato GG.MM.AAAA</string>
+    <string name="error_date_range">Data tra 01.01.1900 e oggi</string>
+    <string name="error_consent">Devi accettare il consenso</string>
+</resources>
